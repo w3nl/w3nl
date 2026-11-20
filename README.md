@@ -1,6 +1,6 @@
 ### Hey everyone, [Pieter](https://hckr.news) here 👋
 
-I build some free/libre/gratis open source JavaScript packages, like [@hckrnews/Objects](https://github.com/hckrnews/objects), [OpenAPI server](https://github.com/hckrnews/openapi-server) and [Array helper](https://github.com/hckrnews/arrays).
+I build some free/libre/gratis open source JavaScript packages, like [Games](https://w3nl.github.io/games/), [@hckrnews/Objects](https://github.com/hckrnews/objects), [OpenAPI server](https://github.com/hckrnews/openapi-server) and [Array helper](https://github.com/hckrnews/arrays).
 
 [![Sponsor Me](https://img.shields.io/static/v1?label=Sponsor%20w3nl&message=%E2%9D%A4&logo=GitHub)](https://github.com/sponsors/w3nl)
 
